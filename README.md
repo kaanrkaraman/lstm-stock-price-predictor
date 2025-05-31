@@ -4,6 +4,7 @@ Bu proje, finansal zaman serisi verilerini kullanarak Apple, Netflix ve Microsof
 
 ## İçerik
 
+- [Kurulum](#kurulum)
 - [Kullanılan Ortam ve Kütüphaneler](#kullanılan-ortam-ve-kütüphaneler)
 - [Veri Seti](#veri-seti)
 - [Zaman Serisi Dönüşümü](#zaman-serisi-dönüşümü)
@@ -14,6 +15,10 @@ Bu proje, finansal zaman serisi verilerini kullanarak Apple, Netflix ve Microsof
 - [Referanslar](#referanslar)
 
 ---
+
+## Kurulum
+
+Tavsiye edilen kurulum şekli, aşağıda ve raporda linki verilen dataseti Kaggle'da bir notebooka klonlayıp bu repo'daki notebook'un import edilerek çalıştırılmasıdır. Ancak bu işlem Colab üzerinde de gerçekleştirilebilir. Notebookun bilgisayardan çalıştırılması veri setinin >10 GB olması sebebiyle tavsiye edilmez.
 
 ## Kullanılan Ortam ve Kütüphaneler
 
